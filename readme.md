@@ -2,7 +2,6 @@
 
 Are you in the mood to add confetti to your stimulus application? You're in luck! This package helps you do that in no-time.
 
-
 ![The easiest way to add confetti to your Stimulus JS app](school-pride.gif)
 
 ## Install
@@ -138,6 +137,6 @@ This package is based on the [`canvas-confetti`](https://github.com/catdad/canva
 
 ## Try Avo ⭐️
 
-If you enjoy this package try out Avo. It helps developers build internal tools, admins, CMSes, CRMs, and any other type of business apps 10x faster on top of Ruby on Rails.
+If you enjoy this package [try out Avo](https://avohq.io). It helps developers build internal tools, admins, CMSes, CRMs, and any other type of business apps 10x faster on top of Ruby on Rails.
 
 [![](./logo-on-white.png)](https://github.com/avo-hq/avo)
